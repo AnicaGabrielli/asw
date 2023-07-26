@@ -1,0 +1,56 @@
+CONTEXTO GERAL
+O sistema proposto visa facilitar o acesso ao agendamento  com psicólogo. A área central será a "Agenda do Psicólogo", que permitirá agendar consultas de forma eficiente. O acesso ao sistema será restrito, exigindo um código de acesso e senha para garantir a segurança das informações.
+Para agendar uma consulta, o estudante deve escolher um horário disponível com o psicólogo. O sistema também permite que os estudantes cancelem ou remarquem suas consultas.
+A "Agenda do Psicólogo" fornecerá informações detalhada, na tela inicial, sobre o processo de atendimento para maior clareza aos usuários.
+O sistema contribuirá para melhorar o acesso aos serviços de saúde mental, oferecendo um meio fácil e eficiente para os estudantes agendarem consultas com os psicólogos. A organização de horários garantirá um atendimento adequado e pontual. Assim, o sistema promoverá à comunidade estudantil uma facilitação do acesso ao sistema de saude mental, contribuindo para um ambiente de aprendizado mais saudável e produtivo. A ênfase está na simplicidade de uso e na qualidade do atendimento prestado, fortalecendo o suporte emocional dos alunos durante sua jornada acadêmica.
+
+
+
+REQUISITOS FUNCIONAIS
+ 
+- ‌O sistema deve fornecer uma interface de login para estudantes, exigindo um código de acesso e senha.
+
+- ‌Os estudantes devem poder acessar a "Agenda do Psicólogo" para visualizar os horários disponíveis.
+
+- ‌O sistema deve permitir que os estudantes agendem consultas com os psicólogos disponíveis em horários adequados.
+
+- ‌Os psicólogos devem ter acesso à agenda para gerenciar e confirmar os agendamentos feitos pelos estudantes.
+
+‌- Os estudantes devem poder cancelar ou remarcar suas consultas de forma simples e intuitiva.
+
+‌- O sistema deve fornecer informações detalhadas sobre o processo de atendimento, incluindo procedimentos e orientações.
+
+‌- O sistema deve permitir que os psicólogos atualizem sua disponibilidade e horários regularmente.
+
+- ‌O sistema deve ser acessível em diferentes dispositivos, como computadores, tablets e smartphones.
+
+- Os psicólogos devem poder bloquear horários específicos quando não estiverem disponíveis para consulta.
+
+- ‌O sistema deve garantir a privacidade das informações pessoais dos estudantes e psicólogos, seguindo as leis de proteção de dados aplicáveis.
+
+- ‌Deve haver uma opção para avaliação do atendimento pelos estudantes após cada consulta.
+
+
+
+REQUISITOS NÃO FUNCIONAIS
+
+
+‌- O sistema deve ser capaz de lidar com um grande número de usuários simultaneamente sem perda significativa de desempenho.
+
+- O sistema deve ser confiável e disponível para acesso durante a maior parte do tempo, com tempo de inatividade planejado mínimo.
+
+- A interface do sistema deve ser intuitiva e de fácil utilização, mesmo para usuários com pouca experiência técnica.
+
+- O sistema deve ser compatível com diferentes navegadores web e sistemas operacionais.
+
+- O sistema deve ser projetado de forma a ser acessível para pessoas com deficiência, seguindo as diretrizes de acessibilidade da web.
+
+‌- O sistema deve ser capaz de lidar com um aumento no número de usuários e consultas à medida que a comunidade estudantil cresce.
+
+- O código e a infraestrutura do sistema devem ser fáceis de manter e atualizar.
+
+- O sistema deve realizar backups regulares dos dados e ser capaz de recuperar informações em caso de falhas ou perdas.
+
+- O sistema deve ser capaz de se integrar com outros sistemas da universidade, se necessário, para compartilhamento de informações relevantes.
+
+
